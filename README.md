@@ -1,4 +1,4 @@
-<img src="Assets/wave.gif" alt="Wave" height="100" align="right">
+<img src="Assets/wave.gif" alt="Wave" height="65" align="right">
 
 ## Heya!
 
@@ -21,8 +21,6 @@ After finally buying my first own laptop I started coding early 2020. In other w
 ### Linux!
 
 My daily driver is Arch Linux with [i3](https://i3wm.org/) as my window manager, [st](https://st.suckless.org/) as my terminal and [neovim](https://neovim.io/) as my text editor
-
-I'm lazy so I end up writing a shit ton of bash and python scripts to do tedious tasks.
 
 I'm a true Wine Laptop Gamer!!!! (God please save me from the 2GB debug files i have to analyse)
 
@@ -47,21 +45,20 @@ ___
 
 ## Socials
 
-- Signal: 
 - Discord: [Vendicated#0001](https://discord.com/users/343383572805058560)
 - Osu!: [VenNeptury](https://osu.ppy.sh/users/17231974)
 - Telegram: [Vendicated](https://t.me/Vendicated)
 - Mail: [venneptury@protonmail.com](mailto:venneptury@protonmail.com)
+- Signal: email me and I'll give you my number
 
-<details>
-<summary>​</>
-
-Yeah I know this README is kinda cringe. Do I care? FUCK NO
-
+<details> 
+  <summary></summary>
+   Yeah I know this README is kinda cringe. Do I care? FUCK NO
 </details>
 
 <!--
 [![Vendicated's github stats](https://github-readme-stats.vercel.app/api?username=vendicated&theme=material-palenight)](https://github-readme-stats.vercel.app/api?username=vendicated&theme=material-palenight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vendicated&theme=material-palenight&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=vendicated&theme=material-palenight&layout=compact)
 
 -->
