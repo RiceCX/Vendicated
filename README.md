@@ -46,7 +46,7 @@ ___
 ## Socials
 
 - Discord: [Vendicated#0001](https://discord.com/users/343383572805058560)
-- Osu!: [VenNeptury](https://osu.ppy.sh/users/17231974)
+- Osu!: https://osu.ppy.sh/users/17231974
 - Telegram: [Vendicated](https://t.me/Vendicated)
 - Mail: [vendicated@riseup.net](mailto:vendicated@riseup.net)
 - Signal: email me and I'll give you my number
