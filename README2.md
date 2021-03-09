@@ -53,12 +53,12 @@ ___
 
 <details> 
   <summary></summary>
-   Yeah I know this README is kinda cringe. Do I care? FUCK NO
+   Yeah I know this README is kinda cringe. Do I care? Absolutely not
 </details>
 
-<!--
+
 [![Vendicated's github stats](https://github-readme-stats.vercel.app/api?username=vendicated&theme=material-palenight)](https://github-readme-stats.vercel.app/api?username=vendicated&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vendicated&theme=material-palenight&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=vendicated&theme=material-palenight&layout=compact)
 
--->
+
