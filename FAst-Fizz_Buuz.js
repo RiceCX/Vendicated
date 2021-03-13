@@ -1,4 +1,4 @@
-
+```js
 1	// Loop from 1 to 100
 2	var regEX_FORfizz = /\d{0,2}5|d?0$/
 3	// 
@@ -40,3 +40,4 @@
 39	  // console.log is inefficient ? NMaybe find betterway?
 40	  console.log(Get_FizzBUZZ(type))
 41	}
+```
