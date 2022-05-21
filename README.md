@@ -1,3 +1,3 @@
 $$
-\color{red}\fbox{\textbf{\textsf{read if cute}}}
+\color{red}\fbox{\textbf{\textsf{READ IF CUTE}}}
 $$
